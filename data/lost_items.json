@@ -1,0 +1,162 @@
+[
+  {
+    "id": "LOST-2026-001",
+    "name": "Charger Laptop Asus",
+    "category": "Elektronik",
+    "color": "Hitam",
+    "description": "Charger laptop Asus 65W, ujung kabel ada sedikit lakban bening, ada stiker kucing kecil",
+    "location": {
+      "floor": 2,
+      "room_code": "LAB201",
+      "room_name": "Lab Komputer 201"
+    },
+    "date": "2026-11-14",
+    "time": "10:30",
+    "status": "Dilaporkan",
+    "reporter": "Ahmad Rizky"
+  },
+  {
+    "id": "LOST-2026-002",
+    "name": "Jaket Hoodie Hitam",
+    "category": "Pakaian / Aksesoris",
+    "color": "Hitam",
+    "description": "Hoodie warna hitam polos merk Erigo ukuran XL, ada saku depan",
+    "location": {
+      "floor": 2,
+      "room_code": "LAB202",
+      "room_name": "Lab Data 202"
+    },
+    "date": "2026-11-15",
+    "time": "14:15",
+    "status": "Dilaporkan",
+    "reporter": "Dimas Pratama"
+  },
+  {
+    "id": "LOST-2026-003",
+    "name": "Earphone TWS Robot",
+    "category": "Elektronik",
+    "color": "Putih",
+    "description": "Earphone bluetooth case putih ada gantungan karet karakter beruang",
+    "location": {
+      "floor": 1,
+      "room_code": "R101",
+      "room_name": "Ruang Kuliah 101"
+    },
+    "date": "2026-11-14",
+    "time": "11:45",
+    "status": "Dilaporkan",
+    "reporter": "Siti Nurhaliza"
+  },
+  {
+    "id": "LOST-2026-004",
+    "name": "Botol Minum Corkcicle",
+    "category": "Botol / Tumbler",
+    "color": "Biru",
+    "description": "Tumbler warna biru navy ukuran 750ml, ada sedikit goresan di dasar botol",
+    "location": {
+      "floor": 1,
+      "room_code": "LOBBY",
+      "room_name": "Lobby / Hall"
+    },
+    "date": "2026-11-15",
+    "time": "09:00",
+    "status": "Dicocokkan",
+    "reporter": "Fajar Hidayat"
+  },
+  {
+    "id": "LOST-2026-005",
+    "name": "Tempat Pensil Faber-Castell",
+    "category": "Alat Tulis",
+    "color": "Abu-abu",
+    "description": "Kotak pensil resleting abu-abu isi pulpen sarasa hitam 3 biji dan penggaris 15cm",
+    "location": {
+      "floor": 1,
+      "room_code": "R102",
+      "room_name": "Ruang Kuliah 102"
+    },
+    "date": "2026-11-13",
+    "time": "13:00",
+    "status": "Selesai",
+    "reporter": "Dewi Sartika"
+  },
+  {
+    "id": "LOST-2026-006",
+    "name": "Dompet Kulit Cokelat",
+    "category": "Tas / Dompet",
+    "color": "Cokelat",
+    "description": "Dompet pria kulit warna cokelat tua, berisi kartu tanda mahasiswa Sains Data dan e-toll",
+    "location": {
+      "floor": 1,
+      "room_code": "TERAS",
+      "room_name": "Area Parkir / Teras Depan"
+    },
+    "date": "2026-11-12",
+    "time": "16:40",
+    "status": "Selesai",
+    "reporter": "Bagus Wicaksono"
+  },
+  {
+    "id": "LOST-2026-007",
+    "name": "Mouse Wireless Logitech",
+    "category": "Elektronik",
+    "color": "Hitam",
+    "description": "Mouse tanpa kabel Logitech M185 warna hitam abu-abu dengan USB dongle menempel",
+    "location": {
+      "floor": 2,
+      "room_code": "LAB201",
+      "room_name": "Lab Komputer 201"
+    },
+    "date": "2026-11-16",
+    "time": "11:20",
+    "status": "Dilaporkan",
+    "reporter": "Muhammad Ilham"
+  },
+  {
+    "id": "LOST-2026-008",
+    "name": "Kacamata Frame Bulat",
+    "category": "Pakaian / Aksesoris",
+    "color": "Hitam",
+    "description": "Kacamata minus lensa silinder frame bulat titanium hitam, case merah",
+    "location": {
+      "floor": 2,
+      "room_code": "MUSHOLLA",
+      "room_name": "Musholla / Ruang Mahasiswa"
+    },
+    "date": "2026-11-16",
+    "time": "12:45",
+    "status": "Dilaporkan",
+    "reporter": "Zahra Aulia"
+  },
+  {
+    "id": "LOST-2026-009",
+    "name": "Buku Catatan Statistika",
+    "category": "Alat Tulis",
+    "color": "Biru",
+    "description": "Buku tulis spiral Campus warna cover biru, sampul depan tertulis 'Catatan Pemrograman Dasar & Statistika'",
+    "location": {
+      "floor": 2,
+      "room_code": "SEMINAR",
+      "room_name": "Ruang Seminar"
+    },
+    "date": "2026-11-11",
+    "time": "15:10",
+    "status": "Selesai",
+    "reporter": "Nadia Putri"
+  },
+  {
+    "id": "LOST-2026-010",
+    "name": "Kabel Data Type-C Fast Charging",
+    "category": "Elektronik",
+    "color": "Merah",
+    "description": "Kabel charger type C braided warna merah panjang 1 meter merk Baseus",
+    "location": {
+      "floor": 1,
+      "room_code": "TU",
+      "room_name": "TU / Admin"
+    },
+    "date": "2026-11-15",
+    "time": "10:00",
+    "status": "Diklaim",
+    "reporter": "Rian Kusuma"
+  }
+]

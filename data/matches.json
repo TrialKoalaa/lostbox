@@ -1,0 +1,47 @@
+[
+  {
+    "match_id": "MATCH-0001",
+    "lost_id": "LOST-2026-004",
+    "found_id": "FOUND-2026-002",
+    "score": 93.0,
+    "status": "Dicocokkan",
+    "date": "2026-11-15 11:00",
+    "notes": "Botol minum Corkcicle biru milik Fajar cocok dengan tumbler temuan Pak Supri di Lobby"
+  },
+  {
+    "match_id": "MATCH-0002",
+    "lost_id": "LOST-2026-010",
+    "found_id": "FOUND-2026-006",
+    "score": 95.0,
+    "status": "Diklaim",
+    "date": "2026-11-15 11:30",
+    "notes": "Kabel data merah Rian Kusuma telah diverifikasi dan siap diserahkan"
+  },
+  {
+    "match_id": "MATCH-0003",
+    "lost_id": "LOST-2026-005",
+    "found_id": "FOUND-2026-004",
+    "score": 98.0,
+    "status": "Selesai",
+    "date": "2026-11-13 16:00",
+    "notes": "Tempat pensil Dewi Sartika telah dikembalikan oleh Ibu Ratna"
+  },
+  {
+    "match_id": "MATCH-0004",
+    "lost_id": "LOST-2026-006",
+    "found_id": "FOUND-2026-005",
+    "score": 96.0,
+    "status": "Selesai",
+    "date": "2026-11-12 18:30",
+    "notes": "Dompet Bagus Wicaksono telah diambil di pos security"
+  },
+  {
+    "match_id": "MATCH-0005",
+    "lost_id": "LOST-2026-009",
+    "found_id": "FOUND-2026-009",
+    "score": 92.0,
+    "status": "Selesai",
+    "date": "2026-11-11 17:00",
+    "notes": "Buku catatan Nadia Putri telah dikembalikan oleh Kevin"
+  }
+]

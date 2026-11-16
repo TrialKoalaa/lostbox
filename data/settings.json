@@ -1,0 +1,156 @@
+{
+  "app_name": "LostBox — Sains Data Edition",
+  "tagline": "Barang hilang? Cek LostBox dulu.",
+  "scope": "Gedung Prodi Sains Data (2 Lantai)",
+  "categories": [
+    "Elektronik",
+    "Pakaian / Aksesoris",
+    "Alat Tulis",
+    "Botol / Tumbler",
+    "Tas / Dompet",
+    "Lainnya"
+  ],
+  "colors": [
+    "Hitam",
+    "Putih",
+    "Abu-abu",
+    "Biru",
+    "Merah",
+    "Hijau",
+    "Kuning",
+    "Cokelat",
+    "Pink",
+    "Oranye",
+    "Lainnya"
+  ],
+  "kept_at_options": [
+    "Dibawa pelapor",
+    "Dititipkan ke TU",
+    "Ditaruh di lokasi"
+  ],
+  "statuses": [
+    "Dilaporkan",
+    "Dicocokkan",
+    "Diklaim",
+    "Selesai",
+    "Kedaluwarsa"
+  ],
+  "floors": {
+    "1": [
+      {
+        "code": "LOBBY",
+        "name": "Lobby / Hall",
+        "row": 0,
+        "col": 0,
+        "colspan": 3
+      },
+      {
+        "code": "R101",
+        "name": "Ruang Kuliah 101",
+        "row": 1,
+        "col": 0,
+        "colspan": 1
+      },
+      {
+        "code": "R102",
+        "name": "Ruang Kuliah 102",
+        "row": 1,
+        "col": 1,
+        "colspan": 1
+      },
+      {
+        "code": "DOSEN",
+        "name": "Ruang Dosen",
+        "row": 1,
+        "col": 2,
+        "colspan": 1
+      },
+      {
+        "code": "TOILET_L1",
+        "name": "Toilet L1",
+        "row": 2,
+        "col": 0,
+        "colspan": 1
+      },
+      {
+        "code": "TANGGA_L1",
+        "name": "Tangga",
+        "row": 2,
+        "col": 1,
+        "colspan": 1
+      },
+      {
+        "code": "TU",
+        "name": "TU / Admin",
+        "row": 2,
+        "col": 2,
+        "colspan": 1
+      },
+      {
+        "code": "TERAS",
+        "name": "Area Parkir / Teras Depan",
+        "row": 3,
+        "col": 0,
+        "colspan": 3
+      }
+    ],
+    "2": [
+      {
+        "code": "KORIDOR",
+        "name": "Koridor Atas",
+        "row": 0,
+        "col": 0,
+        "colspan": 3
+      },
+      {
+        "code": "LAB201",
+        "name": "Lab Komputer 201",
+        "row": 1,
+        "col": 0,
+        "colspan": 1
+      },
+      {
+        "code": "LAB202",
+        "name": "Lab Data 202",
+        "row": 1,
+        "col": 1,
+        "colspan": 1
+      },
+      {
+        "code": "R203",
+        "name": "Ruang Kuliah 203",
+        "row": 1,
+        "col": 2,
+        "colspan": 1
+      },
+      {
+        "code": "TOILET_L2",
+        "name": "Toilet L2",
+        "row": 2,
+        "col": 0,
+        "colspan": 1
+      },
+      {
+        "code": "TANGGA_L2",
+        "name": "Tangga",
+        "row": 2,
+        "col": 1,
+        "colspan": 1
+      },
+      {
+        "code": "SEMINAR",
+        "name": "Ruang Seminar",
+        "row": 2,
+        "col": 2,
+        "colspan": 1
+      },
+      {
+        "code": "MUSHOLLA",
+        "name": "Musholla / Ruang Mahasiswa",
+        "row": 3,
+        "col": 0,
+        "colspan": 3
+      }
+    ]
+  }
+}

@@ -1,0 +1,155 @@
+[
+  {
+    "id": "FOUND-2026-001",
+    "name": "Charger Laptop Hitam",
+    "category": "Elektronik",
+    "color": "Hitam",
+    "description": "Ditemukan adapter charger laptop Asus 65W tertinggal di colokan bawah meja lab",
+    "location": {
+      "floor": 2,
+      "room_code": "LAB201",
+      "room_name": "Lab Komputer 201"
+    },
+    "date": "2026-11-14",
+    "time": "12:15",
+    "status": "Dilaporkan",
+    "reporter": "Budi Santoso",
+    "kept_at": "Dititipkan ke TU"
+  },
+  {
+    "id": "FOUND-2026-002",
+    "name": "Tumbler Minum Biru",
+    "category": "Botol / Tumbler",
+    "color": "Biru",
+    "description": "Botol minum stainless steel warna biru gelap tertinggal di kursi tunggu",
+    "location": {
+      "floor": 1,
+      "room_code": "LOBBY",
+      "room_name": "Lobby / Hall"
+    },
+    "date": "2026-11-15",
+    "time": "10:30",
+    "status": "Dicocokkan",
+    "reporter": "Pak Supri (Security)",
+    "kept_at": "Dititipkan ke TU"
+  },
+  {
+    "id": "FOUND-2026-003",
+    "name": "Flashdisk Sandisk Putih 32GB",
+    "category": "Elektronik",
+    "color": "Putih",
+    "description": "Flashdisk Sandisk Cruzer Blade putih merah tertinggal di wastafel toilet",
+    "location": {
+      "floor": 1,
+      "room_code": "TOILET_L1",
+      "room_name": "Toilet L1"
+    },
+    "date": "2026-11-15",
+    "time": "15:20",
+    "status": "Dilaporkan",
+    "reporter": "Ani Yuliana",
+    "kept_at": "Dibawa pelapor"
+  },
+  {
+    "id": "FOUND-2026-004",
+    "name": "Tempat Pensil Kain Abu-abu",
+    "category": "Alat Tulis",
+    "color": "Abu-abu",
+    "description": "Kotak pensil kain abu-abu merk Faber-Castell tertinggal di meja depan dosen",
+    "location": {
+      "floor": 1,
+      "room_code": "R102",
+      "room_name": "Ruang Kuliah 102"
+    },
+    "date": "2026-11-13",
+    "time": "14:00",
+    "status": "Selesai",
+    "reporter": "Ibu Ratna (Dosen)",
+    "kept_at": "Dititipkan ke TU"
+  },
+  {
+    "id": "FOUND-2026-005",
+    "name": "Dompet Cokelat Merk Cardinal",
+    "category": "Tas / Dompet",
+    "color": "Cokelat",
+    "description": "Dompet cokelat ditemukan dekat tangga parkir motor, ada tanda pengenal mahasiswa",
+    "location": {
+      "floor": 1,
+      "room_code": "TERAS",
+      "room_name": "Area Parkir / Teras Depan"
+    },
+    "date": "2026-11-12",
+    "time": "17:15",
+    "status": "Selesai",
+    "reporter": "Pak Supri (Security)",
+    "kept_at": "Dititipkan ke TU"
+  },
+  {
+    "id": "FOUND-2026-006",
+    "name": "Kabel Charger Merah Type-C",
+    "category": "Elektronik",
+    "color": "Merah",
+    "description": "Kabel charger merah tergeletak di meja front office TU",
+    "location": {
+      "floor": 1,
+      "room_code": "TU",
+      "room_name": "TU / Admin"
+    },
+    "date": "2026-11-15",
+    "time": "10:45",
+    "status": "Diklaim",
+    "reporter": "Mbak Rini (Staf TU)",
+    "kept_at": "Dititipkan ke TU"
+  },
+  {
+    "id": "FOUND-2026-007",
+    "name": "Kunci Motor Honda dengan Gantungan Akrilik",
+    "category": "Pakaian / Aksesoris",
+    "color": "Hitam",
+    "description": "Kunci kontak motor ada gantungan bertuliskan Sains Data 2025",
+    "location": {
+      "floor": 1,
+      "room_code": "TANGGA_L1",
+      "room_name": "Tangga"
+    },
+    "date": "2026-11-16",
+    "time": "08:15",
+    "status": "Dilaporkan",
+    "reporter": "Bambang Wijaya",
+    "kept_at": "Dititipkan ke TU"
+  },
+  {
+    "id": "FOUND-2026-008",
+    "name": "Kalkulator Ilmiah Casio fx-991EX",
+    "category": "Elektronik",
+    "color": "Hitam",
+    "description": "Kalkulator scientific Casio hitam putih kondisi normal di laci meja kelas",
+    "location": {
+      "floor": 2,
+      "room_code": "R203",
+      "room_name": "Ruang Kuliah 203"
+    },
+    "date": "2026-11-16",
+    "time": "13:30",
+    "status": "Selesai",
+    "reporter": "Dina Rahma",
+    "kept_at": "Ditaruh di lokasi"
+  },
+  {
+    "id": "FOUND-2026-009",
+    "name": "Buku Binder Biru",
+    "category": "Alat Tulis",
+    "color": "Biru",
+    "description": "Buku catatan materi kuliah sains data warna biru ditemukan di meja seminar",
+    "location": {
+      "floor": 2,
+      "room_code": "SEMINAR",
+      "room_name": "Ruang Seminar"
+    },
+    "date": "2026-11-11",
+    "time": "16:00",
+    "status": "Selesai",
+    "reporter": "Kevin Sanjaya",
+    "kept_at": "Dititipkan ke TU"
+  }
+]
