@@ -74,7 +74,7 @@ PROJEK/
 ├── tests/
 │   └── test_backend.py       # Unit testing otomatis backend logic
 ├── README.md                 # Dokumentasi proyek & panduan presentasi
-└── projek.py                 # File utama entrypoint aplikasi
+└── main.py                   # File utama entrypoint aplikasi
 ```
 
 ---
@@ -88,13 +88,13 @@ PROJEK/
 ### Menjalankan Aplikasi Grafis (GUI Utama)
 Jalankan perintah berikut di terminal:
 ```bash
-python projek.py
+python main.py
 ```
 
 ### Menjalankan Mode Demonstrasi CLI (Headless / Terminal Only)
 Sangat berguna untuk demonstrasi cepat di terminal atau lingkungan tanpa tampilan grafis:
 ```bash
-python projek.py --cli
+python main.py --cli
 ```
 
 ### Menjalankan Unit Test Backend
@@ -177,7 +177,7 @@ stateDiagram-v2
 
 Berikut panduan langkah demi langkah saat mendemonstrasikan aplikasi kepada dosen:
 
-1. **Buka Aplikasi**: Jalankan `python projek.py`. Tunjukkan tampilan Dashboard modern dengan *summary card* aktif dan dukungan *Dark Mode / Light Mode*.
+1. **Buka Aplikasi**: Jalankan `python main.py`. Tunjukkan tampilan Dashboard modern dengan *summary card* aktif dan dukungan *Dark Mode / Light Mode*.
 2. **Skenario Kasus Nyata**:
    - Ceritakan skenario: *"Ahmad baru saja kehilangan charger laptop Asus di Lab Komputer 201 pada tanggal 14 November."*
    - Tunjukkan laporan kehilangan Ahmad di daftar.
